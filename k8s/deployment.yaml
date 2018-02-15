@@ -21,7 +21,7 @@ spec:
       - env:
         - name: GET_HOSTS_FROM
           value: dns
-        image: gcr.io/gke-pipeline-fukudak/my-app
+        image: gcr.io/fukudak-gke/my-app
         name: my-app
         ports:
         - containerPort: 3000

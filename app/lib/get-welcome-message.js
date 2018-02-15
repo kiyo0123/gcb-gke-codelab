@@ -1,3 +1,3 @@
 module.exports = () => {
-    return 'Hello world! from Las Vegas!'
+    return 'Hello world! from Developer Summit 2018!'
 }
